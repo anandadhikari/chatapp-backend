@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hum.chatapp.ChatAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.1 s - in com.hum.chatapp.ChatAppApplicationTests
